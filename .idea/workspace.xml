@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a267aca-012e-4ce6-93f4-7935376e2a97" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaFundamentalsCoding.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_1_methods/CalculateScore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_1_methods/EqualsSumChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_2_conditional_statements/AreaCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_2_conditional_statements/MegaBytesConverter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_2_conditional_statements/NumberInWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_3_loops/EvenDigitSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_3_loops/FactorPrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_3_loops/InputCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_4_strings/Exercise1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_4_strings/Exercise2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_4_strings/Exercise3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_5_arrays/MinimumElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_5_arrays/ReverseArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_1/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_2/SimpleCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_3/Wall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_4/ComplexNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_5/PasByreference.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_5/PassByValue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_6/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_6/Point.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_7/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_7/Carpet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_7/Floor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_7/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_7_static/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_7_static/StaticTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2M6Muyd2spXa39KAGNYGZs8R6Wf" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.ro.sda.fundamentals._7_static.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.sda.fundamentals._6_classes._part_7.Main" />
+      <module name="JavaFundamentalsCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.sda.fundamentals._6_classes._part_7.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PassByValue" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.sda.fundamentals._6_classes._part_5.PassByValue" />
+      <module name="JavaFundamentalsCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.sda.fundamentals._6_classes._part_5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ro.sda.fundamentals._6_classes._part_4.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.sda.fundamentals._6_classes._part_4.Main" />
+      <module name="JavaFundamentalsCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.sda.fundamentals._6_classes._part_4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ro.sda.fundamentals._6_classes._part_6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.sda.fundamentals._6_classes._part_6.Main" />
+      <module name="JavaFundamentalsCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.sda.fundamentals._6_classes._part_6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ro.sda.fundamentals._7_static.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ro.sda.fundamentals._7_static.Main" />
+      <module name="JavaFundamentalsCoding" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ro.sda.fundamentals._7_static.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.ro.sda.fundamentals._7_static.Main" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.ro.sda.fundamentals._6_classes._part_6.Main" />
+        <item itemvalue="Application.PassByValue" />
+        <item itemvalue="Application.ro.sda.fundamentals._6_classes._part_4.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a267aca-012e-4ce6-93f4-7935376e2a97" name="Changes" comment="" />
+      <created>1677083808222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1677083808222</updated>
+    </task>
+    <servers />
+  </component>
+</project>
