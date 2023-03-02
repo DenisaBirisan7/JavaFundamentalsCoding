@@ -4,46 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a267aca-012e-4ce6-93f4-7935376e2a97" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFundamentalsCoding.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_1_methods/CalculateScore.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_1_methods/EqualsSumChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_2_conditional_statements/AreaCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_2_conditional_statements/MegaBytesConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_2_conditional_statements/NumberInWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_3_loops/EvenDigitSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_3_loops/FactorPrinter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_3_loops/InputCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_4_strings/Exercise1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_4_strings/Exercise2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_4_strings/Exercise3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_5_arrays/MinimumElement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_5_arrays/ReverseArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_1/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_1/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_2/SimpleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_3/Wall.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_4/ComplexNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_4/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_5/PasByreference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_5/PassByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_6/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_6/Point.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_7/Calculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_7/Carpet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_7/Floor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_6_classes/_part_7/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_7_static/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ro/sda/fundamentals/_7_static/StaticTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="5a267aca-012e-4ce6-93f4-7935376e2a97" name="Changes" comment="Initial commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -160,6 +121,18 @@
       <option name="presentableId" value="Default" />
       <updated>1677083808222</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial commit">
+      <created>1677783100713</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677783100713</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Initial commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial commit" />
   </component>
 </project>

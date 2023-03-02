@@ -29,6 +29,9 @@ public class FactorPrinter {
         printFactors(6);
         printFactors(10);
         printFactors(32);
+        printFactors(32);
+        printFactors(32);
+        printFactors(32);
     }
 
     public static void printFactors(int number) {

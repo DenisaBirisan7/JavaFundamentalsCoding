@@ -18,6 +18,7 @@ public class EqualsSumChecker {
         System.out.println(result1);
         System.out.println(hasEqualSum(7, 9, 12));
         System.out.println(hasEqualSum(12, 13, 25));
+        System.out.println(hasEqualSum(12, 13, 25));
 
         int var1 = 100;
         int var2 = 200;
